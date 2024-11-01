@@ -1,7 +1,7 @@
 ## About me 👋
 
 ### 🙋‍♂️ Introduction 
-Hi, I'm **Ankit Suman**, a passionate coder, an artist and a creator at heart. I go by the belief that I can learn only if I build something and hence you will always see me working on something.    
+Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I go by the belief that I can learn only if I build something and hence you will always see me working on something.    
 
 📧 ankitsuman07@gmail.com  
 🚀 [ankitsuman.in](https://ankitsuman.in/)  
