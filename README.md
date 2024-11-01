@@ -1,9 +1,11 @@
 ## About me 👋
 
 ### Introduction 🙋‍♂️
-Hi, I'm **Ankit Suman**, a passionate coder, an artist and a creator at heart. I go by teh belief that I can learn only if I build something and hence you will always see me working on something.    
+Hi, I'm **Ankit Suman**, a passionate coder, an artist and a creator at heart. I go by the belief that I can learn only if I build something and hence you will always see me working on something.    
 
-📧 ankitsuman07@gmail.com
+📧 ankitsuman07@gmail.com  
+🚀 [ankitsuman.in](https://ankitsuman.in/)  
+👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)
 
 ### Job 💼
 
@@ -18,6 +20,10 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a creator at heart. I
   - Test-Driven Development might seem daunting at first, but it offers a structured approach to writing code that can significantly improve code quality, encourage better design, and reduce bugs in the long run.
   - You can never know everything, but always be open to learning.
   - Communication is not about knowing a certain language, but it's about being able to understand what others are telling and being able to convey whatever we want to say. 
+
+### Education
+  - Computer Science graduate from VTU
+  - Fullstack Software Development Bootcamp (MERN stack) from upGrad
 
 ### Currently Learning ⌛
   - SpringBoot 3
@@ -39,3 +45,6 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a creator at heart. I
   - [Why Product Managers Aren’t Mini-CEOs?](https://ankit-suman.medium.com/why-product-managers-arent-mini-ceos-a990baafdf67)
   - [Reversing an Integer but with Overflow Handling in Java](https://ankit-suman.medium.com/reversing-an-integer-but-with-overflow-handling-in-java-46c11d278761)
   - [What is a Product’s Life Cycle?](https://ankit-suman.medium.com/what-is-a-products-life-cycle-59ccbd230407)
+
+### Novels I'm reading
+  - Frankenstein by Mary Shelly
