@@ -5,7 +5,9 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I
 
 📧 ankitsuman07@gmail.com  
 🚀 [ankitsuman.in](https://ankitsuman.in/)  
-👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)
+👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)  
+🎮 [leetcode](https://leetcode.com/u/user9247xh/)  
+🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)
 
 ### 💼 Job 
   - Software Development Intern at [*CACTUS COMMUNICATIONS*](https://cactusglobal.com/). 
