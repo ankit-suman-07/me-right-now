@@ -36,6 +36,7 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I
 ### 🏗️ Personal Projects 
   - Postman clone using NextJS - ongoing
   - Journal/Blog App using SpringBoot 3 and NextJS - ongoing
+  - GameIt - A Game listing App ✅ [Demo Link](https://github.com/ankit-suman-07/GameIt-deploy?tab=readme-ov-file)
 
 ### 📚 Currently Reading 
   - [Hexagonal Architecture](https://www.arhohuttunen.com/hexagonal-architecture-spring-boot/) - blog ✅
