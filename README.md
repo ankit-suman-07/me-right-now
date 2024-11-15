@@ -10,17 +10,22 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I
 🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)
 
 ### 💼 Job 
+
+#### Software Developer
   - Software Development Intern at [*CACTUS COMMUNICATIONS*](https://cactusglobal.com/). 
   - Helping build [Paperpal](https://paperpal.com/home), a comprehensive AI writing toolkit that helps students and researchers around the world. 
   - Creating APIs using SpringBoot and JAVA.
   - Writing test-cases using *Mockito* and *JUnit* to keep the code monitored.
   - Also helping fellow interns and new joinee with the onboarding process and explaining them the code I've worked on.
 
-### 💡 Learnings on the job
+#### 💡 Learnings on the job
   - Ask as many questions as you can to understand the requirements wholly before starting working on it.
   - Test-Driven Development might seem daunting at first, but it offers a structured approach to writing code that can significantly improve code quality, encourage better design, and reduce bugs in the long run.
   - You can never know everything, but always be open to learning.
   - Communication is not about knowing a certain language, but it's about being able to understand what others are telling and being able to convey whatever we want to say. 
+
+### Product Development Intern
+  - MiM-Essay
 
 ### 🎓 Education
   - Computer Science graduate from VTU
