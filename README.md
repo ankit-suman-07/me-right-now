@@ -1,17 +1,25 @@
-## About me 👋
+# About me 👋
 
 ### 🙋‍♂️ Introduction 
-Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I go by the belief that I can learn only if I build something and hence you will always see me working on something.    
+```
+Hi, I'm Ankit Suman, a passionate coder, an artist and a builder at heart. I go by the belief that I can learn only if I build something and hence you will always see me working on something.  
+```  
 
 📧 ankitsuman07@gmail.com  
 🚀 [ankitsuman.in](https://ankitsuman.in/)  
 👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)  
 🎮 [leetcode](https://leetcode.com/u/user9247xh/)  
-🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)
+🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)  
+📚 [Resume download link](https://flowcv.com/resume/uqep61u0b3)
 
-### 💼 Job 
+### Skills
+```
+SpringBoot 3, Java, Mockito, JUnit, MERN Stack, PostgreSQL, JavaScript, REST, Algorithms & Data Structure
+```
 
-#### Software Developer
+## 💼 Job 
+
+### Software Developer *[July,24 - Present]*
   - Software Development Intern at [*CACTUS COMMUNICATIONS*](https://cactusglobal.com/). 
   - Helping build [Paperpal](https://paperpal.com/home), a comprehensive AI writing toolkit that helps students and researchers around the world. 
   - Creating APIs using SpringBoot and JAVA.
@@ -24,10 +32,18 @@ Hi, I'm **Ankit Suman**, a passionate coder, an artist and a builder at heart. I
   - You can never know everything, but always be open to learning.
   - Communication is not about knowing a certain language, but it's about being able to understand what others are telling and being able to convey whatever we want to say. 
 
-### Product Development Intern
-  - MiM-Essay
+### Product Development Intern *[Feb,24 - April,24]*
+  - [*MiM-Essay*](https://www.mim-essay.com/) | [*Mentr-Me*](https://mentr-me.com/)
+  - Conducted market research to analyze trends and assess competition through detailed competitor and data analysis.
+  - Engaged in product ideation and development, brainstorming innovative ideas for the development of an in-house product.
+  - Worked on the formulation of GMAT scoring algorithm for in-house mock test provided through the platform.
+  - Utilized various analytics tools to analyze product usage and identify user pain points, driving improvements in product design and functionality.
+  - Worked on creating Email sequence for interacting with prospect clients.
+  - Created multiple reports based on tasks such as Competitor Research, UX research, product ideation and brainstorming.
+  - Several of my proposed UX changes has been implemented on the live product.
+  - Worked on automating several tasks using prompt engineering which has directly been implemented on the actual live product.
 
-### 🎓 Education
+## 🎓 Education
   - Computer Science graduate from VTU
   - Fullstack Software Development Bootcamp (MERN stack) from upGrad
 
