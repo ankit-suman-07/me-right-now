@@ -14,7 +14,7 @@ Hi, I'm Ankit Suman, a passionate coder, an artist and a builder at heart. I go 
 
 ### Skills
 ```
-SpringBoot 3, Java, Mockito, JUnit, MERN Stack, PostgreSQL, JavaScript, REST, Algorithms & Data Structure
+SpringBoot 3, Java, Mockito, JUnit, Redis, Kubernetes, MERN Stack, PostgreSQL, JavaScript, REST, Algorithms & Data Structure
 ```
 
 ## 💼 Job 
