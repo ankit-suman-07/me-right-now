@@ -58,12 +58,12 @@ MERN Stack, ReactJS
   - SpringBoot 3
   - Advanced Java
   - DSA
-  - NextJS
+  - Redis
   - Authentication
 
 ### 🏗️ Personal Projects 
   - Postman clone using NextJS - ongoing
-  - Journal/Blog App using SpringBoot 3 and NextJS - ongoing
+  - Blog App ✅ [Demo Link](https://github.com/ankit-suman-07/Blog-Frontend)
   - GameIt - A Game listing App ✅ [Demo Link](https://github.com/ankit-suman-07/GameIt-deploy?tab=readme-ov-file)
 
 ### 📚 Currently Reading 
