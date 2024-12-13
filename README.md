@@ -7,11 +7,11 @@ Hi, I'm Ankit Suman, a passionate coder, an artist and a builder at heart. I go 
 
 📧 ankitsuman07@gmail.com  
 🚀 [ankitsuman.in](https://ankitsuman.in/)  
-👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)  
+👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)    
+✍️ [Blog Link](https://ankit-suman.medium.com/one-log-is-all-it-takes-d59be998b379)
 🎮 [leetcode](https://leetcode.com/u/user9247xh/)  
 🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)  
 📚 [Resume download link](https://flowcv.com/resume/uqep61u0b3)  
-✍️ [Blog Link](https://ankit-suman.medium.com/one-log-is-all-it-takes-d59be998b379)
 
 ### Skills
 ```
