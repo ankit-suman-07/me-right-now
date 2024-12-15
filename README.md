@@ -8,7 +8,7 @@ Hi, I'm Ankit Suman, a passionate coder, an artist and a builder at heart. I go 
 📧 ankitsuman07@gmail.com  
 🚀 [ankitsuman.in](https://ankitsuman.in/)  
 👨‍⚖️ [linkedin](https://www.linkedin.com/in/ankit--suman/)    
-✍️ [Blog Link](https://ankit-suman.medium.com/one-log-is-all-it-takes-d59be998b379)
+✍️ [Blog Link](https://ankit-suman.medium.com/one-log-is-all-it-takes-d59be998b379)  
 🎮 [leetcode](https://leetcode.com/u/user9247xh/)  
 🛠️ [DSA practice](https://github.com/ankit-suman-07/dsa-java)  
 📚 [Resume download link](https://flowcv.com/resume/uqep61u0b3)  
@@ -62,7 +62,7 @@ MERN Stack, ReactJS
   - Authentication
 
 ### 🏗️ Personal Projects 
-  - Postman clone using NextJS - ongoing
+  - File-sharing App using SpringBoot 3 and ReactJS  - ongoing
   - Blog App ✅ [Demo Link](https://github.com/ankit-suman-07/Blog-Frontend)
   - GameIt - A Game listing App ✅ [Demo Link](https://github.com/ankit-suman-07/GameIt-deploy?tab=readme-ov-file)
 
@@ -72,8 +72,8 @@ MERN Stack, ReactJS
   - Learning Spring Boot 3.0 by Greg L. Turnquist - book
 
 ### ✍️ My Writings 
-  - [Why Product Managers Aren’t Mini-CEOs?](https://ankit-suman.medium.com/why-product-managers-arent-mini-ceos-a990baafdf67)
-  - [Reversing an Integer but with Overflow Handling in Java](https://ankit-suman.medium.com/reversing-an-integer-but-with-overflow-handling-in-java-46c11d278761)
+  - [One Log is All It Takes](https://medium.com/@ankit-suman/one-log-is-all-it-takes-d59be998b379)
+  - [Git — more than I thought it was!](https://medium.com/@ankit-suman/git-more-than-i-thought-it-was-5c2446dd56ac)
   - [What is a Product’s Life Cycle?](https://ankit-suman.medium.com/what-is-a-products-life-cycle-59ccbd230407)
 
 ### 📕 Novels I'm reading
